@@ -2,7 +2,7 @@
 /target/
 
 # IntelliJ
-.idea/
+CryptoMessenger/.idea/
 *.iml
 
 # Системні файли
